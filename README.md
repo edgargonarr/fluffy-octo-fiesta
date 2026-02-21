@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations edgargonarr! 🎉
+# 🎉 Congratulations edgargonarr!  Introduction to Git🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
